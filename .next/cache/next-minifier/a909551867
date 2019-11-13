@@ -1,0 +1,1 @@
+{"code":"(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{BR8T:function(n,t,i){(window.__NEXT_P=window.__NEXT_P||[]).push([\"/blog\",function(){return i(\"YbiN\")}])},YbiN:function(n,t,i){\"use strict\";i.r(t);var o=i(\"q1tI\"),u=i.n(o),e=i(\"pJ0N\"),w=u.a.createElement;t.default=function(){return w(e.a,null,w(\"div\",null,\"Ultimos Posts\"))}}},[[\"BR8T\",0,1]]]);"}

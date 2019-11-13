@@ -1,0 +1,47 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/blog.js": 0,
+      "multi private-next-pages/contacto.js": 1,
+      "multi private-next-pages/index.js": 2,
+      "multi private-next-pages/nosotros.js": 3,
+      "multi next/dist/pages/_app": 4,
+      "multi next/dist/pages/_error": 5,
+      "multi next/dist/pages/_document": 6
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6
+    }
+  },
+  "chunks": {
+    "byName": {
+      "init-server.js": 0,
+      "on-error-server.js": 1,
+      "static/4RT6OnzalB-yy-w6Sp56h/pages/_app.js": 2,
+      "static/4RT6OnzalB-yy-w6Sp56h/pages/_document.js": 3,
+      "static/4RT6OnzalB-yy-w6Sp56h/pages/_error.js": 4,
+      "static/4RT6OnzalB-yy-w6Sp56h/pages/blog.js": 5,
+      "static/4RT6OnzalB-yy-w6Sp56h/pages/contacto.js": 6,
+      "static/4RT6OnzalB-yy-w6Sp56h/pages/index.js": 7,
+      "static/4RT6OnzalB-yy-w6Sp56h/pages/nosotros.js": 8
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  }
+}
